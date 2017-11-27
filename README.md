@@ -12,5 +12,5 @@ NLP papers
 * [py-webrtcvad](https://github.com/wiseman/py-webrtcvad)
 
 # Courses
-* [USTC]http://staff.ustc.edu.cn/~zhling/Course_SSP/
-* [MIT] https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-345-automatic-speech-recognition-spring-2003/lecture-notes/
+* [USTC](http://staff.ustc.edu.cn/~zhling/Course_SSP/)
+* [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-345-automatic-speech-recognition-spring-2003/lecture-notes/)
