@@ -10,6 +10,7 @@ NLP papers
 
 * [voixen-vad](https://github.com/voixen/voixen-vad)
 * [py-webrtcvad](https://github.com/wiseman/py-webrtcvad)
+* ubuntu tools sudo apt-get install audacity
 
 # Courses
 * [USTC](http://staff.ustc.edu.cn/~zhling/Course_SSP/)
