@@ -6,7 +6,11 @@ NLP papers
 * A phonetically aware system for speech activity detection
 * A comparative study of robustness of deep learning approaches for VAD
 
-VAD tools
+# VAD tools
 
 * [voixen-vad](https://github.com/voixen/voixen-vad)
 * [py-webrtcvad](https://github.com/wiseman/py-webrtcvad)
+
+# Courses
+* [USTC]http://staff.ustc.edu.cn/~zhling/Course_SSP/
+* [MIT] https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-345-automatic-speech-recognition-spring-2003/lecture-notes/
