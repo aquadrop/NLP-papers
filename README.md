@@ -10,6 +10,7 @@ NLP papers
 
 * [voixen-vad](https://github.com/voixen/voixen-vad)
 * [py-webrtcvad](https://github.com/wiseman/py-webrtcvad)
+* [C wrapper] (https://github.com/dpirch/libfvad)
 * ubuntu tools sudo apt-get install audacity
 
 # Courses
